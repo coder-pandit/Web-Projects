@@ -1,5 +1,12 @@
 # Web Projects
 
+## MERN Stack Projects
+
+- #### [Poll App](https://poll-mern.herokuapp.com):
+  - This is a poll app where user can create polls with options to get user opinions.
+  - User can vote for any poll once registered.
+  - Can view polls created by other users with the result in a pie chart view.
+
 ## React Projects
 
 - #### [Expensify App](https://react-expensify-app-learn.herokuapp.com):
@@ -8,7 +15,7 @@
   - Here I am using firebase to authenticate user and store expenses.
 
 - #### [Mobile Store](https://mobile-store-sks.netlify.com):
-  - THis is a Mobile Store which has some dummy data for now.
+  - This is a Mobile Store which has some dummy data for now.
   - You can add mobile to cart, remove from cart and change quantity.
   - Once done with cart you can checkout for payment using PayPal (using sandbox for now).
   - Currently not storing the data on remote server so as soon as you reload website your cart data is gone.
@@ -16,6 +23,10 @@
 - #### [Indicision App](https://shiv-k-sharma.github.io/Indecision-App-React):
   - It will help you to choose what to do in case of confusion.
   - You can add your options and this web app will pick an option randomly for you.
+  
+- #### [LyricFinder](https://lyric-finder-sks.netlify.com):
+  - This is a lyric finder app which will help in finding lyrics of songs.
+  - Just search for the song by title and get the lyrics and some basic details of the song.
 
 
 ## Node Projects
