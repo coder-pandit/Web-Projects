@@ -40,7 +40,7 @@
 
 ## Node Projects
 
-- #### [Chat Room](https://mysterious-wildwood-72944.herokuapp.com):
+- #### [Chat Room](https://node-chat-sks.herokuapp.com):
 
   - This is a ChatApp where a user can create room and chat with anyone around the globe in that room.
   - All users in the same room are able to chat with each other like a group chat (not one to one chat).
